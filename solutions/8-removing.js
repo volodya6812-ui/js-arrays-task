@@ -12,4 +12,5 @@ export default function getSameParity(arr) {
   }
   return result;
 }
+
 // END

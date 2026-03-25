@@ -12,4 +12,5 @@ export const getMax = (arr) => {
   }
   return max;
 };
+
 // END

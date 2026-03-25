@@ -10,4 +10,5 @@ export default function calculateAverage(arr) {
     return sum / arr.length;
   }
 }
+
 // END

@@ -15,4 +15,5 @@ export default function countUniqChars(str) {
   }
   return uniqueChars.length;
 }
+
 // END

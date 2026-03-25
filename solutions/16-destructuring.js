@@ -25,4 +25,5 @@ export const getTheNearestLocation = (locations, point) => {
 
   return nearest;
 };
+
 // END

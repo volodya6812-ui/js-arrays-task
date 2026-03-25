@@ -11,4 +11,5 @@ export const calculateSum = (arr) => {
   }
   return sum;
 };
+
 // END

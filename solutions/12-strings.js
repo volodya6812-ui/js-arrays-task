@@ -9,4 +9,5 @@ export default function makeCensored(text, stopWords) {
   });
   return censoredWords.join(' ');
 }
+
 // END

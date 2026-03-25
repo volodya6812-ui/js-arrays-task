@@ -7,4 +7,5 @@ export function get(arr, index, defaultValue = null) {
     return defaultValue;
   }
 }
+
 // END

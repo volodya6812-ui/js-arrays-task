@@ -30,4 +30,5 @@ export default function getSameCount(arr1, arr2) {
 
   return count;
 }
+
 // END

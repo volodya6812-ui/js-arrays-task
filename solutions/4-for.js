@@ -7,4 +7,5 @@ export default function addPrefix(name, prefix) {
   }
   return result;
 }
+
 // END

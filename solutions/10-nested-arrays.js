@@ -17,4 +17,5 @@ export default function getSuperSeriesWinner(scores) {
   }
   return null;
 }
+
 // END

@@ -10,4 +10,5 @@ export default function getTotalAmount(money, val) {
   }
   return total;
 }
+
 // END

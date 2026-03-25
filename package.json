@@ -5,8 +5,8 @@
   },
   "dependencies": {
     "babel-jest": "^29.4.3",
-    "jest": "^29.4.3",
     "lodash": "^4.17.21",
+    "regenerator-runtime": "^0.14.1",
     "ts-jest": "^29.0.5"
   },
   "jest": {
@@ -15,6 +15,21 @@
     }
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.20.2"
-  }
+    "@babel/preset-env": "^7.20.2",
+    "jest": "^30.3.0"
+  },
+  "name": "js-arrays-task",
+  "description": "Установка нужных библиотек: `npm install`.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volodya6812-ui/js-arrays-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volodya6812-ui/js-arrays-task/issues"
+  },
+  "homepage": "https://github.com/volodya6812-ui/js-arrays-task#readme"
 }

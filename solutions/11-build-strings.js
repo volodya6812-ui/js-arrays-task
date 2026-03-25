@@ -1,3 +1,4 @@
+//BEGIN
 export default function buildDefinitionList(definitions) {
   let result;
   if (definitions.length === 0) {
@@ -13,3 +14,5 @@ export default function buildDefinitionList(definitions) {
   }
   return result;
 }
+
+//END
